@@ -1,13 +1,19 @@
 What about:
-  - Eine Chat-Bot App 
+  - Chat-Bot App 
    --> Einfacher Aufbau (wie zB Whatsapp), Wenig Aufwand um Erfolge zusehen, gut erweiterbar (mit AI usw.)
-  - Eine Archiv App 
+  - Archiv App 
    --> Notizblock, einfach mit Tags, Link Unterstützung. 
        Teil-Funktion einbauen (also via Teilen hinzufügen oder auch verschicken von Text)
        Passwortschutz, Sichere Fileablage usw.
        Erweiterbar bis zu Server-Client Software.
-  - Eine "File-Sharing" Plattform
+  - "File-Sharing" Plattform
    --> Up- und Downloand sind noch intressant zum implementieren.
        Alles drin, PHP, Javascript usw.
        Passwort schutz oder nur Upload und für alle sichtbar usw.
        Kann mit man auch mit AngularJs machen --> Dann wäre es auch gleich ne App :D
+  - Lagerverwaltung als App
+   --> Like Archiv App
+       Dazu noch Schwellwerte definieren, bei 3 Milch mehr kaufen (als Benachrichtigung what ever)
+       Bildansicht -> Damit man sofort sieht was das für ein Produkt ist
+       Schrift erkennen xD
+       Oder Barcode?
